@@ -104,4 +104,8 @@ Then, from within your project folder:
 ```bash
 npm run build
 surge public my-project.surge.sh
+![Screenshot from 2024-03-11 15-35-17](https://github.com/user-attachments/assets/af37cee2-733f-4194-8a3d-f4169a136c22)
+![Screenshot from 2024-03-11 15-35-31](https://github.com/user-attachments/assets/520a62b1-7c15-4ee6-aa9b-25c426db0ed8)
+
+
 ```
